@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on: IoT-based projects using ESP32, sensors, and cloud dashboards<br><br>🤝 I’m looking to collaborate on: Innovative IoT, smart automation, and AIoT projects<br><br>🆘 I’m looking for help with: Edge AI, TinyML, and scalable IoT architectures<br><br>🌱 I’m currently learning: Advanced IoT protocols (MQTT, LoRaWAN) and edge computing<br><br>💬 Ask me about: IoT systems, hardware–software integration, and real-world use cases<br><br>⚡ Fun fact: I love turning simple sensors into smart, real-world solutions<br>
+🔭I’m currently working on: IoT-based projects using ESP32, sensors, and cloud dashboards<br><br>🤝 I’m looking to collaborate on: Innovative IoT, smart automation, and AIoT projects<br><br>🆘 I’m looking for help with: Edge AI, TinyML, and scalable IoT architectures<br><br>🌱 I’m currently learning: Advanced IoT protocols (MQTT, LoRaWAN) and edge computing<br><br>💬 Ask me about: IoT systems, hardware–software integration, and real-world use cases<br><br>⚡ Fun fact: I love turning simple sensors into smart, real-world solutions<br>
 
 
 ## 🌐 Socials:
