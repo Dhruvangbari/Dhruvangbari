@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **dhruvangbari2006@gmail.com** For Collaboration/Project or
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvangbari&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvangbari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvangbari" alt="dhruvangbari" /></a> </p>
+
 
 
 - 📫 How to reach me **dhruvangbari2006@gmail.com**
