@@ -28,4 +28,4 @@ Email Me 👉 ✉️ **dhruvangbari2006@gmail.com** For Collaboration/Project or
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhruvangbari&theme=transparent&card_width=498)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvangbari&" alt="dhruvangbari" /></p>
+
