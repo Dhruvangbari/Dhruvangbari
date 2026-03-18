@@ -28,6 +28,6 @@ Email Me 👉 ✉️ **dhruvangbari2006@gmail.com** For Collaboration/Project or
 <a href="https://stats.hyo.dev/stats/dhruvangbari"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=dhruvangbari" width="600" /></a>
 <a href="https://stats.hyo.dev/stats/dhruvangbari"><img src="https://stats.hyo.dev/api/github-trophies?login=dhruvangbari" width="600" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhruvangbari&theme=transparent&card_width=497)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhruvang&theme=transparent&card_width=497)](https://git.io/streak-stats)
 
 
